@@ -1,4 +1,6 @@
 # CESA-CSI-VPPCOE
+![image](https://github.com/CoderX-Officials/CESA-CSI-VPPCOE/assets/121545998/5b91d816-cfbf-489e-9349-828a7f264bc3)
+
 Welcome to the CESA (Computer Engineering Students Association) & CSI (Computer Society Of India) Website Project Repository!
 
 This GitHub repository houses the source code and assets for the official website of CESA & CSI, where you can find comprehensive details about all our exciting events and activities.
